@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joan Mwangi.
-- 👀 I’m interested in Android Development, Java language and Data Science&Analytics.
-- 🌱 I’m currently advancing my knowledge in Data Science and Analytics.
-- 💞️ I’m looking to collaborate on working on data sets.
+- 👀 I’m interested in Android Development, Java and Data Science&Analytics.
+- 🌱 I’m currently advancing my knowledge in ...
+- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me via my email address, mwangijoan16@gmail.com
 
 <!---
