@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Joan Mwangi.
-- 👀 I’m interested in Mobile DEvelopment, Data Science & Analytics.
+- 👋 Hi, I am Joan Mwangi.
+- 👀 I’m interested in Mobile Apps Development, AI, ML and Data Science & Analytics.
+- Currently working on developing and training machine learning models.
 - 📫 Reach me via my email address, mwangijoan16@gmail.com
 
 <!---
