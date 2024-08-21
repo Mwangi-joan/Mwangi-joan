@@ -1,7 +1,7 @@
 - 👋 Why, hello there. I am Joan Mwangi.
 - 👀 I’m interested in Mobile Apps Development, AI, ML and Data Science & Analytics.
 - 🌱 Currently working on developing and training machine learning models.
-- ⚡ Fun fact: I'm a lover of chess & sudoku and a huge nerd. 
+- ⚡ Fun fact: I'm a lover of chess & sudoku. 
 - 📫 Reach me via my email address, mwangijoan16@gmail.com
 
 <!---
