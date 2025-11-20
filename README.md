@@ -2,7 +2,6 @@
 - 👀 I’m interested in Mobile Apps Development, AI, ML and Data Science & Analytics.
 - 🌱 Currently working on developing and training machine learning models.
 - ⚡ Fun fact: I'm a lover of chess & sudoku. 
-- 📫 Reach me via my email address, mwangijoan16@gmail.com
 
 <!---
 Mwangi-joan/Mwangi-joan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
